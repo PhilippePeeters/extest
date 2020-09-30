@@ -19,7 +19,7 @@ public class TestPerson {
     @Before
     public void setUp() {
         // Recreate the person before each test
-        Person person = new Person(1,"Philippe","Peeters", LocalDate.of(1967, 6, 23));
+        person = new Person(1,"Philippe","Peeters", LocalDate.of(1967, 6, 23));
         System.out.println("Before Test:" + Instant.now());
     }
 
