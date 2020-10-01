@@ -1,0 +1,5 @@
+be\abis\exb4\model\Person.class
+be\abis\exb4\model\Company.class
+be\abis\exb4\exception\PersonShouldBeAdultException.class
+be\abis\exb4\model\Address.class
+be\abis\exb4\test\ExB4.class
